@@ -24,4 +24,4 @@
 - HTML5 , CSS3 ,JavaScript
 
 ## Preview 
-<img width="1849" height="901" alt="Screenshot 2025-11-21 200834" src="https://github.com/user-attachments/assets/df31720d-518d-4ec8-ad46-0f2caf06277b" />
+<img width="1849" height="901" alt="picture" src="https://github.com/user-attachments/assets/d04f45a7-1d66-4b7d-bd2e-4bd1618488f2" />
